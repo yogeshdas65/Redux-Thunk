@@ -1,0 +1,6 @@
+*what is redux-thunk ?
+-only redux is syncronous 
+-redux with thunk provide asyncronous
+
+*why thunk ?
+-its Provide a feature of delay functionality
